@@ -47,4 +47,4 @@ Here are some of the top repositories I've worked on:
 
 ![Sneha's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sneha-reddy&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sneha-reddy&layout=compact&theme=radical)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sneha-reddy&layout=compact&theme=radical&hide=css,html&repo=Radscribe-1/EmployeeConnector,Radscribe-1/Radspeakai-server)](https://github.com/sneha-reddy)
