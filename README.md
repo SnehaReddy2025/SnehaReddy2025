@@ -12,5 +12,6 @@
 **Databases:** MongoDB, MySQL 
 **Tools & Platforms:** AWS, Vite, Postman, Github,  Nodemon, NPM  
 
+
 ## 📊 GitHub Stats:
 ![Sneha's GitHub stats](https://github-readme-stats.vercel.app/api?username=sneha-reddy&show_icons=true&theme=radical)
