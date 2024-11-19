@@ -13,7 +13,7 @@ Here are some of the top repositories I've worked on:
 - [Radspeakai-server](https://github.com/Radscribe-1/Radspeakai-server) - The server-side component of a Python project focused on real-time transcription of system audio. This application transcribes audio input to text in real time, and I worked on developing the backend server that processes and streams audio data for transcription.
 
 ## 🌐 Socials:
-[LinkedIn](https://www.linkedin.com/in/sneha-reddy-080918236)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sneha-reddy-080918236)
 ## 💻 Tech Stack:
 
 ### **Frontend:**
