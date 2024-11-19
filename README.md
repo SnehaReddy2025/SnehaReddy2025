@@ -24,17 +24,14 @@ Here are some of the top repositories I've worked on:
 - ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
 - ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white) 
 - ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
 ### **Backend:**
 - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 - ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) 
 - ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white) 
 - ![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-00BFFF?style=for-the-badge&logo=rest&logoColor=white) 
-
 ### **Databases:**
 - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
-
 ### **Tools & Platforms:**
 - ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) 
 - ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) 
@@ -45,4 +42,9 @@ Here are some of the top repositories I've worked on:
 
 
 ## 📊 GitHub Stats:
+
 ![Sneha's GitHub stats](https://github-readme-stats.vercel.app/api?username=sneha-reddy&show_icons=true&theme=radical)
+
+![Sneha's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sneha-reddy&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sneha-reddy&layout=compact&theme=radical)
