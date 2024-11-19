@@ -4,6 +4,14 @@
 😄 Pronouns: She/Her.  
 ⚡ Fun fact: I love solving coding challenges—even if it means hours of debugging! Every bug is a new learning opportunity.  
 📫 How to Reach Me: [snehareddy2025@gmail.com](mailto:snehareddy2025@gmail.com)  
+## Top Repositories
+
+Here are some of the top repositories I've worked on:
+
+- [EmployeeConnector](https://github.com/Radscribe-1/EmployeeConnector) - An attendance management application that tracks employee attendance, manages shifts, and records leave data. I contributed by implementing new features to enhance user experience, including improved reporting, notifications, and integration with existing HR systems.
+
+- [Radspeakai-server](https://github.com/Radscribe-1/Radspeakai-server) - The server-side component of a Python project focused on real-time transcription of system audio. This application transcribes audio input to text in real time, and I worked on developing the backend server that processes and streams audio data for transcription.
+
 ## 🌐 Socials:
 [LinkedIn](https://www.linkedin.com/in/sneha-reddy-080918236)
 ## 💻 Tech Stack:
