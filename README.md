@@ -7,10 +7,10 @@
 ## 🌐 Socials:
 [LinkedIn](https://www.linkedin.com/in/sneha-reddy-080918236)
 ## 💻 Tech Stack:
-**Frontend:** HTML5, CSS3, SCSS, JavaScript, React.js, Bootstrap.   
-**Backend:** Node.js, Express.js, JWT, RESTful APIs  .
-**Databases:** MongoDB, MySQL .
-**Tools & Platforms:** AWS, Vite, Postman, Git,  Nodemon, NPM  .
+**Frontend:** HTML5, CSS3, SCSS, JavaScript, React.js, Redux, Bootstrap  
+**Backend:** Node.js, Express.js, JWT, RESTful APIs  
+**Databases:** MongoDB, MySQL 
+**Tools & Platforms:** AWS, Vite, Postman, Github,  Nodemon, NPM  
 
 ## 📊 GitHub Stats:
 ![Sneha's GitHub stats](https://github-readme-stats.vercel.app/api?username=sneha-reddy&show_icons=true&theme=radical)
