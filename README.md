@@ -5,4 +5,4 @@
 ⚡ Fun fact: I love solving coding challenges—even if it means hours of debugging! Every bug is a new learning opportunity.  
 📫 How to Reach Me: [snehareddy2025@gmail.com](mailto:snehareddy2025@gmail.com)  
 ## 🌐 Socials:
-[LinkedIn](https://www.linkedin.com/in/sneha-reddy-080918236)  
+LinkedIn(https://www.linkedin.com/in/sneha-reddy-080918236)  
