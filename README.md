@@ -14,7 +14,7 @@ Here are some of the top repositories I've worked on:
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sneha-reddy-080918236)
-[![View My Portfolio](https://img.shields.io/badge/View_My_Portfolio-1E90FF?style=for-the-badge&logo=netlify&logoColor=white)](https://remarkable-maamoul-90
+[![View My Portfolio](https://img.shields.io/badge/View_My_Portfolio-1E90FF?style=for-the-badge&logo=netlify&logoColor=white)]
 
 ## 💻 Tech Stack:
 
