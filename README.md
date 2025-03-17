@@ -12,6 +12,8 @@ Here are some of the top repositories I've worked on:
 
 - [Radspeakai-server](https://github.com/Radscribe-1/Radspeakai-server) - The server-side component of a Python project focused on real-time transcription of system audio. This application transcribes audio input to text in real time, and I worked on developing the backend server that processes and streams audio data for transcription.
 
+- [EmployeeConnector v2](https://github.com/Radscribe/360frontendnew.git) - An advanced version of the attendance management application, introducing enhanced reporting, real-time notifications, and seamless integration with HR systems. In this version, I contributed by optimizing performance, implementing role-based access control (RBAC), improving shift management, and adding automated leave approval workflows to streamline HR operations.
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sneha-reddy-080918236)
 [![Explore My Portfolio](https://img.shields.io/badge/Explore_My_Portfolio-1E90FF?style=for-the-badge&logo=netlify&logoColor=white)](https://remarkable-maamoul-90d71d.netlify.app)
